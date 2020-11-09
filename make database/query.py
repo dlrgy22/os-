@@ -17,9 +17,3 @@ class mysql_db:
                 self.curs.execute(sql)
                 self.db.commit()
 
-
-~
-~
-~
-~
-~
